@@ -43,7 +43,4 @@ This project involves Compiler Construction, with a focus on Lexical Analysis an
 
 - C++
 
-Feel free to contribute, provide feedback, or use this project for educational purposes.
-
-```
 
