@@ -10,15 +10,10 @@ This repository contains code and resources related to Compiler Construction, sp
 ## Table of Contents
 
 - [Overview](#overview)
-- [Folders and Files](#folders-and-files)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Languages Used](#languages-used)
 
-## Folders and Files
-
-- [Lexical Analysis](/Lexical%20Analysis)
-  - [Add any relevant files or subdirectories]
 
 ## Installation
 
